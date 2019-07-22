@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Just another reposit.
+
+I'm a huski who just started coding. 
